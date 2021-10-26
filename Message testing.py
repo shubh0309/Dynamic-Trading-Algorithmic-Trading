@@ -1,7 +1,7 @@
 
 import requests
 resp = requests.post('https://textbelt.com/text', {
-  'phone': '+919792836413',
+  'phone': '+917415579827',
   'message': 'Hello world',
   'key': 'textbelt',
 })
